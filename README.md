@@ -1,4 +1,5 @@
-[![MasterHead](https://www.cwstechnology.com/wp-content/uploads/2024/03/android-app-devlopment.jpg)](https://github.com/Prince-Choubey)
+[![MasterHead](![Prince Choubey (2)](https://github.com/user-attachments/assets/5baa06d9-caeb-4f97-b000-94b4a3b166b5)
+)](https://github.com/Prince-Choubey)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
