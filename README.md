@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Prince Choubey<br>A passionate Android developer from India.</p>
+<p align="left">Hi 👋, I'm Prince Choubey<br>A passionate Mobile developer from India.</p>
 
 ###
 
