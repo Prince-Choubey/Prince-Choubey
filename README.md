@@ -1,5 +1,4 @@
-[![MasterHead](![Prince Choubey (2)][(https://github.com/user-attachments/assets/5baa06d9-caeb-4f97-b000-94b4a3b166b5](https://as1.ftcdn.net/v2/jpg/01/92/99/32/1000_F_192993292_r7IxBlWQbl8rXuMauz4dbmi23M4Bykif.jpg))
-)](https://github.com/Prince-Choubey)
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
